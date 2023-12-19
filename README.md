@@ -2,9 +2,8 @@
 code related to my youtube video
 # My Project
 
-Welcome to my awesome project! <img src="html.png" width="20" height="20" />
+Welcome to my awesome project! <img src="html.png" width="200" height="200" />
 
 ## Features
-- Feature 1 <img src="https://example.com/star.png" width="20" height="20" />
-- Feature 2 <img src="https://example.com/fire.png" width="20" height="20" />
+- Feature 1 <img src="myself.jpg" width="200" height="200" />
 
