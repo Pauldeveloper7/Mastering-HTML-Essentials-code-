@@ -1,3 +1,4 @@
+<link href="style.css" rel="stylesheet">
 # Mastering-HTML-Essentials-code-
 code related to my youtube video
 # My Project
@@ -5,5 +6,4 @@ code related to my youtube video
 Welcome to my awesome project! <img src="html.png" width="200" height="200" />
 
 ## Features
-- Feature 1 <img src="myself.jpg" width="200" height="200" />
-
+- Feature 1 <img id='.anime-image' src="myself.jpg" width="200" height="200" />
