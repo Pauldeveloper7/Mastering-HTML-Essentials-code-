@@ -2,7 +2,7 @@
 code related to my youtube video
 # My Project
 
-Welcome to my awesome project! <img src="https://example.com/emoji.png" width="20" height="20" />
+Welcome to my awesome project! <img src="html.png" width="20" height="20" />
 
 ## Features
 - Feature 1 <img src="https://example.com/star.png" width="20" height="20" />
